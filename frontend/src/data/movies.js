@@ -1438,6 +1438,7 @@ export const movies= [
     "Furry Vengeance",
     "Bait",
     "Krull",
+    "Lion 2016"
     "Lions for Lambs",
     "Flight of the Intruder",
     "Walk Hard: The Dewey Cox Story",
