@@ -563,6 +563,7 @@ export const movies= [
     "Two Brothers",
     "The Village",
     "Doctor Dolittle",
+    "Doctor Strange"
     "Signs",
     "Shrek 2",
     "Cars",
