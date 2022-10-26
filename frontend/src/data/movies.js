@@ -1162,6 +1162,7 @@ export const movies= [
     "A League of Their Own",
     "The Conjuring 2",
     "The Social Network",
+    "The Stranger 2022"
     "He's Just Not That Into You",
     "Scary Movie 4",
     "Scream 3",
